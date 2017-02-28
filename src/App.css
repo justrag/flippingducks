@@ -1,0 +1,33 @@
+.pond {
+border-radius: 50%;
+width: 12vmin;
+height: 12vmin;
+background-color: lightblue;
+position: absolute;
+top: 10vmin;
+}
+# container {
+position: relative;
+}
+.p0 {
+left: 2vmin;
+}
+.p1 {
+left: 16vmin;
+}
+.p2 {
+left: 30vmin;
+}
+.p3 {
+left: 44vmin;
+}
+.p4 {
+left: 58vmin;
+}
+.p5 {
+left: 72vmin;
+}
+.p6 {
+left: 86vmin;
+}
+
