@@ -6,6 +6,15 @@ background-color: lightblue;
 position: absolute;
 top: 10vmin;
 }
+.duck {
+position: absolute;
+border-radius: 10%;
+width: 3vmin;
+height: 3vmin;
+background-color: orange;
+border: thin solid black;
+top: 15vmin;
+}
 # container {
 position: relative;
 }
